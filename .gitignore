@@ -4,6 +4,7 @@
 *.PcbDocPreview
 __Previews
 *.PrjPcbStructure
+*.LibPkgStructure
 *.Dat
 *.REP 
 *.TLT
